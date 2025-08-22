@@ -1,97 +1,63 @@
 # 👋 Hi, I'm Enock Onkarabile Buys
 
-🎓 Honours Computer Science Student | AI Focus  
-📍 Mokgalwaneng, Northwest, South Africa  
-📫 enockonkarabile@gmail.com | 📱 +27 820816138  
-🔗 [LinkedIn](https://www.linkedin.com/in/enock-buys-56b899239)
+🎓 BSc Honours in Computer Science (Artificial Intelligence) | ALX Data Science Fellow  
+📍 Northwest, South Africa  
+📫 enockonkarabile@gmail.com | 📱 +27 82 081 6138  
+🔗 [LinkedIn](https://www.linkedin.com/in/enock-buys-56b899239) | 🌐 [Portfolio](https://enockbuys.github.io) | 💻 [GitHub](https://github.com/enockbuys)
 
 ---
 
 ## 🎯 About Me
 
-I'm currently pursuing my Honours degree in Computer Science with a specialization in Artificial Intelligence at the **University of Johannesburg**. My academic journey is rooted in a strong foundation in Computer Science, Mathematics, and Statistics—built through consistent learning and real-world application.
+I am an Honours student at the **University of Johannesburg** specializing in **Artificial Intelligence**. My research and projects are focused on the practical application of advanced ML techniques, including **Generative AI** and **Reinforcement Learning**, to solve complex problems like financial fraud detection and strategic game playing.
 
-While I'm still early in my career, I'm passionate about **Data**, **Cloud Computing**, and **AI**, and I’m actively working on developing projects, learning industry-relevant tools, and engaging with the broader tech community to grow my skill set.
-
----
-
-## 🎓 Academic Background
-
-- **Bachelor of Science Honours in Computer Science (AI)**  
-  *University of Johannesburg*  
-  *Jan 2025 – Present*  
-  Focus: Artificial Intelligence, Data Science, Software Engineering
-
-- **Bachelor of Science in Mathematical Sciences (ECP)**  
-  *University of Limpopo*  
-  *Jan 2020 – Sept 2024*  
-  Focus: Computer Science, Statistics
+I am concurrently honing my industry skills through the **ALX Data Science Bootcamp**, building robust end-to-end data solutions. I am passionate about the entire ML pipeline—from data preprocessing and model development to deployment and MLOps.
 
 ---
 
-## 🔍 What I'm Currently Focusing On
+## 🔬 Research & Projects
 
-- Learning cloud platforms (**AWS**, **Google Cloud**) and DevOps basics  
-- Building data pipelines using **Python**, **SQL**, **BigQuery**, **S3**  
-- Deploying machine learning models with **Flask**, **Docker**, and **Streamlit**  
-- Hosting and documenting my work on **GitHub**  
-- Launching a personal **portfolio website**  
-- Seeking mentorship, internship opportunities, and open-source collaborations
+Here are some of the key projects I've developed:
 
----
-
-## 📅 June 2025 Goals
-
-| Week | Focus Area                            | Outcome                                  |
-|------|----------------------------------------|------------------------------------------|
-| 1    | GitHub, Python, Cloud Basics           | Cloud-backed data scraper project        |
-| 2    | Data Engineering & Pipelines           | ETL project using BigQuery + dashboard   |
-| 3    | ML Model Deployment                    | Flask API + Docker + cloud deployment    |
-| 4    | Portfolio & Career Prep                | Portfolio website + resume + LinkedIn updates |
-
----
-
-## 🧪 Projects in Progress
-
-- **Cloud Data Scraper**  
-  A Python-based script that collects live data and stores it on AWS S3 or GCP Cloud Storage.
-
-- **ETL Dashboard Project**  
-  Cloud pipeline that cleans and loads data into BigQuery and visualizes it with Streamlit.
-
-- **AI Prediction API**  
-  Simple ML model deployed via Flask and Docker on AWS EC2 or Render.com.
+| Project | Description | Tech Stack | Links |
+| :--- | :--- | :--- | :--- |
+| **Fraud Detection with Conditional GAN** | Honours thesis developing a Generative AI model to synthesize fraudulent transaction data and improve detection rates in highly imbalanced datasets. | Python, TensorFlow, Scikit-learn, Pandas | [![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?logo=github)](https://github.com/enockbuys/fraud-detection-project) |
+| **Dots & Boxes RL Agent** | A Deep Q-Network (DQN) agent trained through self-play to master the classic strategy game Dots & Boxes. | Python, PyTorch, OpenAI Gym | [![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?logo=github)](https://github.com/enockbuys/DotsAndBoxesAI) [![YouTube](https://img.shields.io/badge/YouTube-Demo-FF0000?logo=youtube)](https://youtu.be/oXwhfqg-xkU) |
+| **Mingle Dating Platform** | A full-stack web application featuring a preference-based matching algorithm and real-time messaging. | React, Node.js, Firebase, JavaScript | [![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?logo=github)](https://github.com/freddymuleya16/Mingle) [![Live Demo](https://img.shields.io/badge/Vercel-Live_Demo-000000?logo=vercel)](https://mingle-sa.vercel.app/welcome) |
+| **Secure Linux Backup System** | An automated, encrypted backup solution for SMBs using BorgBackup with cloud sync and monitoring. | Ubuntu, Docker, BorgBackup, Nginx | |
 
 ---
 
 ## 🛠️ Technical Skills
 
-**Languages**: Python, Java (OOP), SQL  
-**Cloud & DevOps**: AWS, GCP, Docker, GitHub Actions, Linux  
-**Tools & Libraries**: Git, Pandas, NumPy, Streamlit, Flask, Scikit-learn, Firebase  
-**Soft Skills**: Team collaboration, tutoring, communication, problem solving
+*   **Programming Languages:** Python, Java, JavaScript, SQL
+*   **AI/ML & Data Science:** TensorFlow, PyTorch, Scikit-learn, Keras, Pandas, NumPy, Matplotlib
+*   **Databases & Cloud:** Firebase, PostgreSQL, SQLite, AWS (Fundamentals), Docker
+*   **Web Development:** React, Node.js, Express, HTML/CSS
+*   **Tools & OS:** Git, Linux (Ubuntu), Jupyter Notebook, LaTeX
 
 ---
 
-## 📜 Certifications
+## 📚 Education & Certifications
 
-- Python Essentials 1 – Cisco (2024)  
-- Microsoft 365 Certified: Fundamentals (2025)  
-- Microsoft Certified: Security, Compliance, and Identity Fundamentals (2024)  
-- Administering Information Protection in Microsoft 365 (2024)
-
----
-
-## 🤝 Let's Connect
-
-I'm currently open to:
-- Internship or entry-level opportunities in **data**, **cloud**, or **AI**
-- Collaboration on open-source or learning projects
-- Mentorship or advice from professionals in the industry
-
-📫 **Email me** at enockonkarabile@gmail.com  
-📎 **Connect on LinkedIn**: [linkedin.com/in/enock-buys-56b899239](https://www.linkedin.com/in/enock-buys-56b899239)
+*   **BSc Honours in Computer Science (Artificial Intelligence)** - University of Johannesburg (*2025 - Present*)
+*   **BSc Mathematical Sciences** (Computer Science & Statistics) - University of Limpopo (*2020 - 2024*)
+*   **ALX Data Science Bootcamp** - *Currently Enrolled*
+    *   *Tracks: Professional Foundations, Data Analytics, Python, Machine Learning, AWS Cloud*
+*   **Microsoft 365 Certified: Fundamentals** (2025)
+*   **Microsoft Security, Compliance, and Identity Fundamentals** (2024)
+*   **Cisco Python Essentials 1** (2024)
 
 ---
 
-> 💬 *"You don’t have to be great to start, but you have to start to be great."* – Zig Ziglar
+## 📞 Let's Connect
+
+I am actively seeking opportunities as a **Data Scientist**, **Machine Learning Engineer**, or **AI Research Assistant**. I am eager to contribute to a team working on innovative AI solutions and continue my growth in the field.
+
+*   📧 **Email me:** enockonkarabile@gmail.com
+*   💼 **Connect on LinkedIn:** [linkedin.com/in/enock-buys-56b899239](https://www.linkedin.com/in/enock-buys-56b899239)
+*   🖥️ **View my portfolio:** [enockbuys.github.io](https://enockbuys.github.io)
+
+---
+
+> 🚀 *"The best way to predict the future is to create it."* — Alan Kay
