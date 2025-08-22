@@ -56,7 +56,7 @@ I am actively seeking opportunities as a **Data Scientist**, **Machine Learning 
 
 *   📧 **Email me:** enockonkarabile@gmail.com
 *   💼 **Connect on LinkedIn:** [linkedin.com/in/enock-buys-56b899239](https://www.linkedin.com/in/enock-buys-56b899239)
-*   🖥️ **View my portfolio:** [enockbuys.github.io](https://enockbuys.github.io)
+*   🖥️ **View my portfolio:** [enockbuys.github.io](https://enockbuys.github.io/website)
 
 ---
 
